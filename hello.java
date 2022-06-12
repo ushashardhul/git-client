@@ -1,4 +1,4 @@
-class hello
+:class hello
 {
 	void main()
 }
